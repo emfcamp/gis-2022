@@ -1,0 +1,20 @@
+- ref: Powercube
+  type: distro
+  inputs:
+    - current: 63A
+      phases: 3
+      type: "IEC 60309"
+      rcd: 30mA
+  outputs:
+    - current: 16A
+      type: "IEC 60309"
+      count: 2
+    - current: 16A
+      type: "Socapex"
+      count: 6
+    - current: 10A
+      type: "Socapex"
+      count: 6
+    - current: 10A
+      type: "Socapex"
+      count: 12

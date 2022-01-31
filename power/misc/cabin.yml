@@ -1,0 +1,11 @@
+- ref: CABIN
+  type: distro
+  inputs:
+    - current: 32A
+      phases: 1
+      type: "IEC 60309"
+  outputs:
+    - count: 4
+      current: 13A
+      type: "BS 1363"
+      rcd: 30mA

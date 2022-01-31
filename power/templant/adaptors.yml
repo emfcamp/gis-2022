@@ -1,0 +1,25 @@
+- ref: "ADAP32/63"
+  type: distro
+  inputs:
+    - current: 32A
+      phases: 3
+      type: "IEC 60309"
+  outputs:
+    - count: 1
+      current: 63A
+      phases: 3
+      type: "IEC 60309"
+      cable: True
+- ref: "ADAP63/125"
+  type: distro
+  inputs:
+    - current: 63A
+      phases: 3
+      type: "IEC 60309"
+  outputs:
+    - count: 1
+      current: 125A
+      phases: 3
+      type: "IEC 60309"
+      cable: True
+
