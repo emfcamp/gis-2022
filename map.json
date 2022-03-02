@@ -8,7 +8,7 @@
 	
 	"source_file": {
 		"site_plan": {
-			"path": "../gis-2020/emf2020.dxf",
+			"path": "../gis-2022/emf2022.dxf",
 			"auto_import_layers": "true"
 		}
 	},
