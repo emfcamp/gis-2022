@@ -19,7 +19,7 @@
 
         "plugins": {
             "power": {
-                "name": "Electromagnetic Field 2020",
+                "name": "Electromagnetic Field 2022",
                 "layer_prefix": "Power ... ",
                 "spec_dir": "../gis-2022/power"
             },
@@ -48,7 +48,7 @@
                 }
             },
             "noc": {
-                "name": "Electromagnetic Field 2020",
+                "name": "Electromagnetic Field 2022",
                 "layer_prefix": "NOC ... ",
                 "core": "ESNORE"
             }
