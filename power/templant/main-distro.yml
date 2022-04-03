@@ -1,4 +1,4 @@
-- ref: "P/L-SPLIT"
+- ref: "P/L SPLIT"
   type: distro
   inputs:
     - current: 400A
@@ -9,7 +9,7 @@
       current: 400A
       phases: 3
       type: Powerlock
-- ref: SPEC-4
+- ref: "SPEC 4"
   type: distro
   inputs:
     - current: 400A
@@ -27,7 +27,7 @@
       phases: 3
       type: "IEC 60309"
       rcd: 100-1000mA
-- ref: SPEC-7
+- ref: "SPEC 7"
   type: distro
   inputs:
     - current: 400A

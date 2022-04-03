@@ -21,7 +21,7 @@
             "power": {
                 "name": "Electromagnetic Field 2020",
                 "layer_prefix": "Power ... ",
-                "spec_dir": "../gis/power"
+                "spec_dir": "../gis-2022/power"
             },
             "stats": {
                 "length": [

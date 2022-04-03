@@ -13,7 +13,7 @@
       current: 32A
       phases: 3
       type: "IEC 60309"
-- ref: EPS/32-2
+- ref: "EPS/32 2"
   type: distro
   inputs:
     - current: 32A
@@ -32,7 +32,7 @@
       current: 32A
       phases: 3
       type: "IEC 60309"
-- ref: EPS/63-3
+- ref: "EPS/63 3"
   type: distro
   inputs:
     - current: 63A
@@ -51,7 +51,7 @@
       current: 63A
       phases: 3
       type: "IEC 60309"
-- ref: EPS/63-4
+- ref: "EPS/63 4"
   type: distro
   inputs:
     - current: 63A
@@ -66,7 +66,7 @@
       current: 63A
       phases: 3
       type: "IEC 60309"
-- ref: EPS/63-5
+- ref: "EPS/63 5"
   type: distro
   inputs:
     - current: 63A
@@ -107,7 +107,7 @@
     - current: 63A
       phases: 3
       type: "IEC 60309"
-- ref: SSB-1
+- ref: "SSB 1"
   type: distro
   inputs:
     - current: 32A
@@ -117,7 +117,7 @@
       current: 16A
       type: "IEC 60309"
       rcd: 30mA
-- ref: SSB-2
+- ref: "SSB 2"
   type: distro
   inputs:
     - current: 32A
@@ -172,7 +172,7 @@
       phases: 3
       type: "IEC 60309"
       rcd: adjustable
-- ref: GBR-1
+- ref: "GBR 1"
   type: distro
   inputs:
     - current: 125A
@@ -197,7 +197,7 @@
       type: "IEC 60309"
       phases: 3
       rcd: Adjustable
-- ref: GBR-2
+- ref: "GBR 2"
   type: distro
   inputs:
     - current: 125A
@@ -242,7 +242,7 @@
       current: 63A
       type: "IEC 60309"
       phases: 3
-- ref: HTSB-4
+- ref: "HTSB 4"
   type: distro
   inputs:
     - current: 125A
@@ -254,7 +254,7 @@
       phases: 3
       type: "IEC 60309"
       rcd: 30mA
-- ref: HTSB-5
+- ref: "HTSB 5"
   type: distro
   inputs:
     - current: 63A
@@ -271,7 +271,7 @@
       phases: 3
       type: "IEC 60309"
       rcd: 30mA
-- ref: HTSB-6
+- ref: "HTSB 6"
   type: distro
   inputs:
     - current: 125A
@@ -283,7 +283,7 @@
       phases: 3
       type: "IEC 60309"
       rcd: 30mA
-- ref: HTSB-7
+- ref: "HTSB 7"
   type: distro
   inputs:
     - current: 125A
@@ -300,7 +300,7 @@
       phases: 3
       type: "IEC 60309"
       rcd: 30mA
-- ref: HTSB-12
+- ref: "HTSB 12"
   type: distro
   inputs:
     - current: 63A
