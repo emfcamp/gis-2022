@@ -9,6 +9,17 @@
       phases: 3
       type: Powerlock
       rcd: 1A
+- ref: 150kVA
+  name: 150kVA Generator
+  type: generator
+  power: 250kVA
+  voltage: 400V
+  transient_reactance: 15%
+  outputs:
+    - current: 400A
+      phases: 3
+      type: Powerlock
+      rcd: 1A
 - ref: 200kVA
   name: 200kVA Generator
   type: generator
