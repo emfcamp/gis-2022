@@ -143,6 +143,10 @@
     - current: 32A
       type: "IEC 60309"
   outputs:
+    - count: 1
+      current: 32A
+      type: "IEC 60309"
+      rcd: 30mA
     - count: 14
       current: 13A
       type: "BS 1363"
