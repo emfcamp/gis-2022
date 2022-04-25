@@ -12,7 +12,7 @@
 - ref: 150kVA
   name: 150kVA Generator
   type: generator
-  power: 250kVA
+  power: 150kVA
   voltage: 400V
   transient_reactance: 15%
   outputs:
