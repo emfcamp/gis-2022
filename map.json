@@ -43,14 +43,14 @@
                     },
                     "Camping Vehicles": {
                         "sql": "SELECT ST_Area(wkb_geometry) AS area, camping AS name FROM site_plan WHERE layer = 'Areas ... Camping' AND camping = 'Vehicles'",
-                        "density": 80
+                        "density": 70
                     }
                 }
             },
             "noc": {
                 "name": "Electromagnetic Field 2022",
                 "layer_prefix": "NOC ... ",
-                "core": "ESNORE"
+                "core": "NOCDC"
             }
         }
 }
