@@ -133,6 +133,9 @@
     - current: 16A
       type: "IEC 60309"
   outputs:
+    - count: 1
+      current: 16A
+      type: "IEC 60309"
     - count: 14
       current: 13A
       type: "BS 1363"
@@ -143,10 +146,6 @@
     - current: 32A
       type: "IEC 60309"
   outputs:
-    - count: 1
-      current: 32A
-      type: "IEC 60309"
-      rcd: 30mA
     - count: 14
       current: 13A
       type: "BS 1363"
@@ -157,9 +156,13 @@
     - current: 32A
       type: "IEC 60309"
   outputs:
-    - count: 8
+    - count: 4
       current: 16A
       type: "IEC 60309"
+      rcd: 30mA
+    - count: 4
+      current: 13A
+      type: "BS 1363"
       rcd: 30mA
     - count: 1
       current: 32A
