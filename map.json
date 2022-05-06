@@ -9,7 +9,9 @@
 	"source_file": {
 		"site_plan": {
 			"path": "../gis-2022/emf2022.dxf",
-			"auto_import_layers": "true"
+			"auto_import_layers": "true",
+			"combine_lines": ["Structures"],
+			"force_polygon": ["Structures"]
 		}
 	},
 
