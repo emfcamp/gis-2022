@@ -97,7 +97,7 @@ Standard
   9
 $CLAYER
   8
-NOC ... Fibre
+Areas
   9
 $CELTYPE
   6
@@ -489,19 +489,19 @@ $SKPOLY
   9
 $TDCREATE
  40
-2459706.468208391
+2459706.500540012
   9
 $TDUCREATE
  40
-2459706.468208391
+2459706.500540012
   9
 $TDUPDATE
  40
-2459706.468210162
+2459706.500541852
   9
 $TDUUPDATE
  40
-2459706.468210162
+2459706.500541852
   9
 $TDINDWG
  40
@@ -929,7 +929,7 @@ $PSTYLEMODE
   9
 $FINGERPRINTGUID
   2
-{9942d430-692e-b646-81f6-85555626a535}
+{bf3fdcb5-8f35-3349-8c7a-475c3cd0ced5}
   9
 $VERSIONGUID
   2
@@ -1297,9 +1297,9 @@ AcDbViewportTableRecord
  21
 1.0
  12
-374293.9519721827
+374203.8972989473
  22
-238425.5031797988
+238124.7367550504
  13
 0.0
  23
@@ -1325,9 +1325,9 @@ AcDbViewportTableRecord
  37
 0.0
  40
-15.62768765256624
+96.7625228363031
  41
-1.561580170409943
+1.561580170410671
  42
 50.0
  43
@@ -3517,7 +3517,7 @@ AcDbLayerTableRecord
   2
 Areas
  70
-     0
+     4
  62
     18
 420
@@ -3530,6 +3530,10 @@ Continuous
 2CC6E
 347
 2CCA4
+1001
+QCAD
+1000
+collapsed:1
   0
 LAYER
   5
@@ -4451,7 +4455,7 @@ AcDbLayerTableRecord
   2
 NOC
  70
-     0
+     4
  62
     18
 420
@@ -4464,6 +4468,10 @@ Continuous
 2CC6E
 347
 2CCA4
+1001
+QCAD
+1000
+collapsed:1
   0
 LAYER
   5
@@ -4646,6 +4654,10 @@ Continuous
 2CC6E
 347
 2CCA4
+1001
+QCAD
+1000
+collapsed:1
   0
 LAYER
   5
@@ -4763,7 +4775,7 @@ AcDbLayerTableRecord
   2
 Power
  70
-     0
+     4
  62
     18
 420
@@ -5027,7 +5039,7 @@ AcDbLayerTableRecord
   2
 Services
  70
-     0
+     4
  62
     18
 420
@@ -5040,6 +5052,10 @@ Continuous
 2CC6E
 347
 2CCA4
+1001
+QCAD
+1000
+collapsed:1
   0
 LAYER
   5
@@ -5053,7 +5069,7 @@ AcDbLayerTableRecord
   2
 Services ... Comms
  70
-     0
+     4
  62
     18
 420
@@ -5317,7 +5333,7 @@ AcDbLayerTableRecord
   2
 Structures
  70
-     0
+     4
  62
     18
 420
@@ -144311,28 +144327,6 @@ cores:4
 1000
 updowns:1
   0
-POINT
-  5
-25413
-330
-2CC7D
-100
-AcDbEntity
-  8
-NOC ... Switch
-100
-AcDbPoint
- 10
-374162.0
- 20
-238115.0
- 30
-0.0
-1001
-QCAD
-1000
-switch:CRECHE
-  0
 LWPOLYLINE
   5
 25414
@@ -144625,7 +144619,7 @@ NOC ... Fibre
 100
 AcDbPolyline
  90
-        6
+        7
  70
    128
  43
@@ -144651,13 +144645,19 @@ AcDbPolyline
  20
 238248.206574416
  10
-374330.1746976673
+374243.029
  20
-238248.9928948832
+237980.294
+ 10
+374242.0000000054
+ 20
+237982.9999999843
 1001
 QCAD
 1000
 cores:16
+1000
+permanent:true
   0
 LWPOLYLINE
   5
@@ -166789,7 +166789,7 @@ AcDbXrecord
 280
      1
  40
-15.62768765256624
+96.7625228363031
   0
 XRECORD
   5
@@ -166807,7 +166807,7 @@ AcDbXrecord
 280
      1
  40
-24.40388714760775
+151.1024369000806
   0
 DICTIONARY
   5
