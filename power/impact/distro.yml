@@ -1,0 +1,14 @@
+- ref: "MD1 32 1"
+  type: distro
+  inputs:
+    - current: 32A
+      phases: 1
+      type: "IEC 60309"
+  outputs:
+    - count: 4
+      current: 16A
+      type: "IEC 60309"
+      rcd: 30mA
+    - count: 1
+      current: 32A
+      type: "IEC 60309"
