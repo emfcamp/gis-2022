@@ -21,11 +21,12 @@
       type: Powerlock
       rcd: 1A
 - ref: 200kVA
-  name: 200kVA Generator
+  # Alternator: Mecc Alte Eco 38-2S/4
+  name: Bruno GX221C 200kVA
   type: generator
   power: 200kVA
   voltage: 400V
-  transient_reactance: 15%
+  transient_reactance: 10.7%
   outputs:
     - current: 400A
       phases: 3
