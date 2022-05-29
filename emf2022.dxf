@@ -97,7 +97,7 @@ Standard
   9
 $CLAYER
   8
-Power
+Structures
   9
 $CELTYPE
   6
@@ -489,19 +489,19 @@ $SKPOLY
   9
 $TDCREATE
  40
-2459728.754823391
+2459729.064010891
   9
 $TDUCREATE
  40
-2459728.754823391
+2459729.064010891
   9
 $TDUPDATE
  40
-2459728.754825324
+2459729.064012546
   9
 $TDUUPDATE
  40
-2459728.754825324
+2459729.064012546
   9
 $TDINDWG
  40
@@ -929,7 +929,7 @@ $PSTYLEMODE
   9
 $FINGERPRINTGUID
   2
-{1a84e864-a4a2-eb42-8796-1d597974377f}
+{c3ebbcc3-d571-874a-980a-7ce024b6eb62}
   9
 $VERSIONGUID
   2
@@ -1297,9 +1297,9 @@ AcDbViewportTableRecord
  21
 1.0
  12
-374287.8863287227
+374300.8977758774
  22
-238168.6926120067
+238319.0527556434
  13
 0.0
  23
@@ -1325,9 +1325,9 @@ AcDbViewportTableRecord
  37
 0.0
  40
-321.8962672303314
+268.2468893586192
  41
-1.550983899821104
+1.550983899821012
  42
 50.0
  43
@@ -5389,7 +5389,7 @@ AcDbLayerTableRecord
   2
 Structures ... Guys & Poles
  70
-     0
+     4
  62
    253
 420
@@ -5415,7 +5415,7 @@ AcDbLayerTableRecord
   2
 Structures ... Internal
  70
-     0
+     4
  62
      9
 420
@@ -5441,7 +5441,7 @@ AcDbLayerTableRecord
   2
 Structures ... LuxTrax Flooring
  70
-     1
+     5
  62
     -5
 420
@@ -5467,7 +5467,7 @@ AcDbLayerTableRecord
   2
 Structures ... Null Sector Internal
  70
-     0
+     4
  62
    253
 420
@@ -5493,7 +5493,7 @@ AcDbLayerTableRecord
   2
 Structures ... Perimeter
  70
-     0
+     4
  62
      9
 420
@@ -160845,7 +160845,7 @@ INSERT
 100
 AcDbEntity
   8
-Structures ... Village Tents
+Structures
 100
 AcDbBlockReference
   2
@@ -160867,7 +160867,7 @@ INSERT
 100
 AcDbEntity
   8
-Structures ... Village Tents
+Structures
 100
 AcDbBlockReference
   2
@@ -160889,7 +160889,7 @@ INSERT
 100
 AcDbEntity
   8
-Structures ... Village Tents
+Structures
 100
 AcDbBlockReference
   2
@@ -160909,7 +160909,7 @@ INSERT
 100
 AcDbEntity
   8
-Structures ... Village Tents
+Structures
 100
 AcDbBlockReference
   2
@@ -160929,7 +160929,7 @@ INSERT
 100
 AcDbEntity
   8
-Structures ... Village Tents
+Structures
 100
 AcDbBlockReference
   2
@@ -160951,7 +160951,7 @@ INSERT
 100
 AcDbEntity
   8
-Structures ... Village Tents
+Structures
 100
 AcDbBlockReference
   2
@@ -160973,7 +160973,7 @@ INSERT
 100
 AcDbEntity
   8
-Structures ... Village Tents
+Structures
 100
 AcDbBlockReference
   2
@@ -160993,7 +160993,7 @@ INSERT
 100
 AcDbEntity
   8
-Structures ... Village Tents
+Structures
 100
 AcDbBlockReference
   2
@@ -161015,7 +161015,7 @@ INSERT
 100
 AcDbEntity
   8
-Structures ... Village Tents
+Structures
 100
 AcDbBlockReference
   2
@@ -168341,7 +168341,7 @@ AcDbXrecord
 280
      1
  40
-321.8962672303314
+268.2468893586192
   0
 XRECORD
   5
@@ -168359,7 +168359,7 @@ AcDbXrecord
 280
      1
  40
-499.2559278867557
+416.0466065722867
   0
 DICTIONARY
   5
